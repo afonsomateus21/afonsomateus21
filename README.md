@@ -1,9 +1,9 @@
-### Olá! Eu sou o Afonso Mateus ✌️
+### Hi! I'm Afonso Mateus ✌️
 
 ![Afonso Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsomateus21&hide=contribs,prs&shows_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomateus21)](https://github.com/anuraghazra/github-readme-stats)
-## Tecnologias que utilizo no meu dia a dia
+## Tecnologies that I'm using
 
 <div style="display: inline_bloc">
   <img style="margin-top: 5px" align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,6 +20,6 @@
   <img style="margin-top: 5px" align="center" alt="node" src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 </div>
 
-### Entre em contato
+### Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](afonsomateus.dev@gmail.com)
