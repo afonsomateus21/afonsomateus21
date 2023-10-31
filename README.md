@@ -1,7 +1,5 @@
 ### Hi! I'm Afonso Mateus ✌️
 
-![Afonso Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsomateus21&hide=contribs,prs&shows_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomateus21)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologies that I'm using
 
